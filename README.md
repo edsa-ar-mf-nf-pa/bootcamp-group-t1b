@@ -4,12 +4,19 @@ Bootcamp project for the Enterprise Data Science Bootcamp course of the 2022 Pos
 
 ## Group
 
+* Adryelle Rios - 20211053
+* Marta La Feria - 20211051
+* Nuno Felicio - 2021823
+* Pedro Assis - 20211368
+
 ## Project description
 
+Check [project document](input/BI4ALL_-_NOVA_IMS_-_Back_Orders_Prediction.pdf)
 ## How to run
 
 * Install Python and Conda
 * Install all packages that are referenced in config.py
+* Unzip datasets files (in input folder)
 * Run each book in sequential order (00_* to 05_*)
 * Each step exports a dataframe (.h5 file) to the 'cache" folder that is imported by next step so each step can run any times needed without the need to rerun the previous steps
   
@@ -39,6 +46,8 @@ lib
 │   05_models_testing.ipynb
 │   05_models_testing_nn.ipynb
 │
+├───input            Has project description document and datasets
+|
 ├───output                  
 │   ├───profile_report.html [ Panda profile report ]         
 │   └───... 

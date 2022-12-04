@@ -2,7 +2,7 @@
 
 Bootcamp project for the Enterprise Data Science Bootcamp course of the 2022 Postgraduate Program in Enterprise Data Science & Analytics of NOVA IMS
 
-## Group
+## Group T1B
 
 * Adryelle Rios - 20211053
 * Marta La Feria - 20211051
@@ -22,7 +22,7 @@ Check [project document](input/BI4ALL_-_NOVA_IMS_-_Back_Orders_Prediction.pdf)
   
 ## Project Diagram
 
-<img src="project_diagram.png" align="middle" height="400" style="height:400px; float:left"/>
+<img src="project_diagram.png" align="middle" height="600" style="height:600px"/>
 
 ## Folder structure
 

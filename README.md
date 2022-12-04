@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="project_cover.png" align="middle" height="200" style="height:200px"/>
+</p>
+
 # EDSA - BOOTCAMP Project Group T1B
 
 Bootcamp project for the Enterprise Data Science Bootcamp course of the 2022 Postgraduate Program in Enterprise Data Science & Analytics of NOVA IMS
@@ -22,7 +27,9 @@ Check [project document](input/BI4ALL_-_NOVA_IMS_-_Back_Orders_Prediction.pdf)
   
 ## Project Diagram
 
-<img src="project_diagram.png" align="middle" height="600" style="height:600px"/>
+<p align="center">
+<img src="project_diagram.png" align="center" height="600" style="height:600px"/>
+</p>
 
 ## Folder structure
 

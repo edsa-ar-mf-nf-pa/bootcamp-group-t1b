@@ -28,7 +28,7 @@ Check [project document](input/BI4ALL_-_NOVA_IMS_-_Back_Orders_Prediction.pdf)
 ## Project Diagram
 
 <p align="center">
-<img src="project_diagram.png" align="center" height="600" style="height:600px"/>
+<img src="project_diagram.png" align="center"/>
 </p>
 
 ## Folder structure

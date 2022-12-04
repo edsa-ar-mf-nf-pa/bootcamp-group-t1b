@@ -22,7 +22,7 @@ Check [project document](input/BI4ALL_-_NOVA_IMS_-_Back_Orders_Prediction.pdf)
 * Install Python and Conda
 * Install all packages that are referenced in config.py
 * Unzip datasets files (in input folder)
-* Run each book in sequential order (00_* to 05_*)
+* Run each jupyter notebook in sequential order (00_* to 05_*)
 * Each step exports a dataframe (.h5 file) to the 'cache" folder that is imported by next step so each step can run any times needed without the need to rerun the previous steps
   
 ## Project Diagram
@@ -40,18 +40,18 @@ lib
 │
 │   project_diagram.png
 │
-│   config.py
-│   imports.py
-│   functions.py
-│   pipeline_functions.py
+│   config.py       [configuration of several parameters of the process]
+│   imports.py      [all imports needed in all files]
+│   functions.py    [custom functions used in all files]
+│   pipeline_functions.py   [custom functions used during gridsearch/pipeline]
 │
-│   00_data_import.ipynb
-│   01_data_understanding.ipynb
-│   02_data_cleaning.ipynb
-│   03_new_features.ipynb
-│   04_features_selection.ipynb
-│   05_models_testing.ipynb
-│   05_models_testing_nn.ipynb
+│   00_data_import.ipynb            [Data import]
+│   01_data_understanding.ipynb     [Data understanding / exploration]
+│   02_data_cleaning.ipynb          [Data cleaning]
+│   03_new_features.ipynb           [Add new features]
+│   04_features_selection.ipynb     [Features selection]
+│   05_models_testing.ipynb         [Models testing and tunning]
+│   05_models_testing_nn.ipynb      [NN models testings]
 │
 ├───input            Has project description document and datasets
 |

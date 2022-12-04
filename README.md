@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="project_cover.png" align="middle" height="300" style="height:200px"/>
+  <img src="project_cover.png" align="middle" height="300" style="height:300px"/>
 </p>
 
 # EDSA - BOOTCAMP Project Group T1B

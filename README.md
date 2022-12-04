@@ -15,7 +15,7 @@ Bootcamp project for the Enterprise Data Science Bootcamp course of the 2022 Pos
   
 ## Project Diagram
 
-<img src="output/pca_graph.png" align="middle" height="300" style="height:400px; float:left"/>
+<img src="project_diagram.png" align="middle" height="400" style="height:400px; float:left"/>
 
 ## Folder structure
 

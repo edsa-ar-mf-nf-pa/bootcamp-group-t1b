@@ -74,7 +74,6 @@ Temporary Items
 
 __pycache__
 cache/
-input/
 *.h5
 tmp/
 catboost_info/
